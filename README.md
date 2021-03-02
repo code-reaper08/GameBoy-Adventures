@@ -1,6 +1,8 @@
 # GameBoy-Adventures
 A simple Platformer game built using Godot Engine.
 
+[![GitHub license](https://img.shields.io/github/license/code-reaper08/GameBoy-Adventures?style=for-the-badge)](https://github.com/code-reaper08/GameBoy-Adventures/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/GameBoy-Adventures?style=for-the-badge)](https://github.com/code-reaper08/GameBoy-Adventures/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/GameBoy-Adventures?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/code-reaper08/GameBoy-Adventures?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/code-reaper08/GameBoy-Adventures?style=for-the-badge)
+
 This is a simple retro styled platformer game fully built using Godot Engine.
 It has 3 characters in it for now 
 1. Player 
